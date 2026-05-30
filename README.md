@@ -23,4 +23,15 @@ Welcome to the Loud and Found AI Help Center. Browse the articles below to learn
 
 ---
 
+## ⭐ Review Automation Service
+
+| Article | Description |
+|---------|-------------|
+| [What Is the Automated Review Request Service?](review-automation/overview.md) | How the service works and who benefits most |
+| [How the Automated Review Workflow Works](review-automation/how-it-works.md) | Step-by-step walkthrough from trigger to published review |
+| [Automating Review Responses](review-automation/review-responses.md) | How to respond to every review automatically and professionally |
+| [Handling Negative Reviews](review-automation/negative-reviews.md) | Turning complaints into service-recovery opportunities |
+
+---
+
 Need help? Email us at [support@loudandfoundai.com](mailto:support@loudandfoundai.com) or visit [loudandfoundai.com](https://loudandfoundai.com).
